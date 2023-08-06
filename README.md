@@ -1,7 +1,7 @@
 also open with https://tangerine-banoffee-259f68.netlify.app
 
 1)go to react Component and Props card and press click to read.
-2)go to react Context api and press click to read.
+2)go to react Context api cards and press click to read.
 3)you can also click to blog and back to blog page.
 
 

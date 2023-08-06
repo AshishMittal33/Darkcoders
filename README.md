@@ -12,6 +12,10 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 also open with https://tangerine-banoffee-259f68.netlify.app
+go to react Component and Props card and press click to read.
+go to react Context api and press click to read.
+you can also click to blog and back to blog page.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
